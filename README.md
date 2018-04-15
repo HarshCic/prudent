@@ -1,0 +1,3 @@
+# Prudent - A Health Care Website
+A website which will help in providing a platform where the user or the patient can directly interact with the doctors of any specialization or with the hospitals. As all the facilities are going digital nowadays, it is necessary that the health care or hospital industry also digitalize. This project (PRUDENT) is somewhat similar to the platform provide by OYO where one can find nearest hotels. But this doesn’t stop here, it also has some more important function instead of just finding the nearest hospital…
+ 
