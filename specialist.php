@@ -55,7 +55,7 @@
                 <!-- <a href="#section-features" class="btn btn--white btn--animated">Discover our Services</a> &nbsp &nbsp &nbsp  -->
                 <!-- <a href="signup.php" class="btn btn--white btn--animated">LogIn / SignUp</a> -->
                 <div class="btn btn--white btn--animated">
-                <form action="specialization_script.php" >
+                <form action="specialization_script.php" method="GET" >
                 <div class="form-group">
                        <label for="specialization"></label>
                        <input type="text" class="form-control" name="specialization" placeholder="Type any specialization">
