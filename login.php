@@ -94,7 +94,7 @@ require 'include/common.php';
             </div>
         </header>
 
-\
+
 
         <footer class="footer">
             <div class="footer__logo-box">
