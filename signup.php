@@ -52,7 +52,7 @@ require 'include/common.php';
             </div>
 
             <div class="header__text-box">
-            <br><br><br><br><br>
+            <br><br><br><br>
                 
 <div class="container">
      
@@ -100,7 +100,7 @@ require 'include/common.php';
             </div>
         </header>
 
-\
+
 
         <footer class="footer">
             <div class="footer__logo-box">
