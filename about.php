@@ -43,7 +43,7 @@
             <section class="section-about">
                 <div class="u-center-text u-margin-bottom-big">
                     <h2 class="heading-secondary">
-                        what is prudent
+                        ABOUT US
                     </h2>
                 </div>
 
@@ -87,49 +87,7 @@
                 </div>
             </section>
 
-            <section class="section-features" id="section-features">
-                <div class="row">
-                    <div class="col-1-of-4">
-                        <div class="feature-box">
-                            <i  class="feature-box__icon icon-basic-world"></i>
-                            <a id="links" href="specialist.php"><h3 class="heading-tertiary u-margin-bottom-small">Find a Specialist</h3></a>
-                            <p class="feature-box__text">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, ipsum sapiente aspernatur.
-                            </p>
-                        </div>
-                    </div>
-
-                    <div class="col-1-of-4">
-                        <div class="feature-box">
-                            <i class="feature-box__icon icon-basic-compass"></i>
-                            <a id="links" href="hospital.php"><h3 class="heading-tertiary u-margin-bottom-small">Find your way to Nearest Hospital</h3></a>
-                            <p class="feature-box__text">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, ipsum sapiente aspernatur.
-                            </p>
-                        </div>
-                    </div>
-
-                    <div class="col-1-of-4">
-                        <div class="feature-box">
-                            <i class="feature-box__icon icon-basic-map"></i>
-                            <a id="links" href="emergency.php"><h3 class="heading-tertiary u-margin-bottom-small">Emergency Condition</h3></a>
-                             <p class="feature-box__text">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, ipsum sapiente aspernatur.
-                            </p>
-                        </div>
-                    </div>
-
-                    <div class="col-1-of-4">
-                        <div class="feature-box">
-                            <i class="feature-box__icon icon-basic-heart"></i>
-                            <a id="links" href="self.php"><h3 class="heading-tertiary u-margin-bottom-small">Self Help</h3></a>
-                            <p class="feature-box__text">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, ipsum sapiente aspernatur.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </section>
+            
         </main>
 
         <footer class="footer">
