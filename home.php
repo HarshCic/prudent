@@ -47,10 +47,11 @@
                     <span class="heading-primary--main">Prudent</span>
                     <span class="heading-primary--sub">care and thoughtful future</span>
                 </h1>
-
-                <!-- <a href="#section-features" class="btn btn--white btn--animated">Discover our Services</a> &nbsp &nbsp &nbsp  -->
-                <!-- <a href="signup.php" class="btn btn--white btn--animated">LogIn / SignUp</a> -->
-                <div class="btn btn--white btn--animated">Hello, Welcome to Prudent</div>
+<div class="btn btn--white btn--animated heading-primary ">Hey, Welcome to Prudent</div>
+<div>
+                <a href="#section-features" class="btn btn--white btn--animated">Discover our Services</a>
+</div>                <!-- <a href="signup.php" class="btn btn--white btn--animated">LogIn / SignUp</a> -->
+                
             </div>
         </header>
 
@@ -58,7 +59,7 @@
             <section class="section-about">
                 <div class="u-center-text u-margin-bottom-big">
                     <h2 class="heading-secondary">
-                        what is prudent
+                        Welcome to Prudent
                     </h2>
                 </div>
 
