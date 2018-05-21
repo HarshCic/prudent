@@ -154,8 +154,8 @@
                     <div class="footer__navigation">
                         <ul class="footer__list">
                             <li class="footer__item"><a href="about.php" class="footer__link">About Us</a></li>
-                            <li class="footer__item"><a href="#" class="footer__link">Contact Us</a></li>
-                            <li class="footer__item"><a href="#" class="footer__link">Credits</a></li>
+                            <!-- <li class="footer__item"><a href="#" class="footer__link">Contact Us</a></li>
+                            <li class="footer__item"><a href="#" class="footer__link">Credits</a></li> -->
                            
                         </ul>
                     </div>
