@@ -33,6 +33,7 @@
                     <li class="navigation__item"><a href="self.php" class="navigation__link"><span>02.</span>Self Help</a></li>
                     <li class="navigation__item"><a href="specialist.php" class="navigation__link"><span>03.</span>Find a Specialist</a></li>
                     <li class="navigation__item"><a href="about.php" class="navigation__link"><span>04.</span>About Us</a></li>
+                    <li class="navigation__item"><a href="index.php" class="navigation__link"><span>04.</span>Log Out</a></li>
                     </ul>
             </nav>
         </div>
